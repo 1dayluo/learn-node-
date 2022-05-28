@@ -66,3 +66,15 @@ The `fs.writeFile()`
 ### Rename Files
 
 - `fs.rename()`
+
+
+
+## Upload Files to server
+
+`Formidabe` a very good module for working with file uploads
+
+
+
+see `code/fileupload`
+
+
