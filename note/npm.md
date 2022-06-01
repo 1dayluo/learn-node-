@@ -27,5 +27,3 @@ like this:
 ```javascript
 var uc = require('upper-case');
 ```
-
-
