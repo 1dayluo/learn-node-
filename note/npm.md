@@ -6,9 +6,13 @@ npm is a package manager for Node.js packages
 
 ### 国内加速
 
-可以使用 `cnpm`
+可以使用 `cnpm`  
 
 cnpm : https://npmmirror.com/
+
+
+
+( 开发时也会用到yarn)
 
 ### Download a Package
 

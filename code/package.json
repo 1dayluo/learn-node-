@@ -2,5 +2,15 @@
   "dependencies": {
     "formidable": "^2.0.1",
     "mv": "^2.1.1"
-  }
+  },
+  "name": "code",
+  "version": "1.0.0",
+  "main": "demofile1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

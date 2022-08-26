@@ -57,3 +57,17 @@ http.createServer(function (req, res) {
     res.end(''); //end the response
 }).listen(8081);
 ```
+
+
+
+## 获取请求数据
+
+参考:
+
+(https://www.runoob.com/nodejs/node-js-get-post.html)
+
+[Node.js GET/POST请求 | 菜鸟教程](https://www.runoob.com/nodejs/node-js-get-post.html)
+
+当数据到达时,req对象会产生一个data事件
+
+数据传输完毕时,req对象会产生一个end事件:代表传输完,并且把data事件中得到的数据保存起来
